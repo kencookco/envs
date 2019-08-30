@@ -1,4 +1,4 @@
-Provides compilers for user with Bit.
+Provides compilers for use with Bit.
 
 compilers/nextjs
 - Extremely bare bones compiler for nextjs component support with bit. Plenty of room for improvement. Feel free to contribute.

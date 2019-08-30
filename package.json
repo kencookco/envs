@@ -28,13 +28,8 @@
     "vinyl": "^2.2.0"
   },
   "bit": {
-    "env": {},
-    "overrides": {
-      "compilers/nextjs": {
-        "env": {
-          "compiler": "bit.envs/compilers/babel@7.0.1"
-        }
-      }
+    "env": {
+      "compiler": "bit.envs/compilers/babel@7.0.1"
     },
     "componentsDefaultDirectory": "components/{name}",
     "packageManager": "npm"
